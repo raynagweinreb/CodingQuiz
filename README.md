@@ -11,7 +11,7 @@ Open the link below and press start to start the quiz.
 - Javascrip 
 - HTML
 
-##Link
+## Link
 https://raynagweinreb.github.io/CodingQuiz/
 ## Contact me 
 You can contact me with questions at raynagweinreb@gmail.com
